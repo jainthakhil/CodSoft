@@ -227,7 +227,7 @@ button{
 
 .ingredients p{
     margin: 8px;
-    columns: #FF603B;
+    color: #FF603B;
 }
 
 .ingredients :nth-last-child(1){
